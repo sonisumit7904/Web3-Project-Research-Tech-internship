@@ -1,1 +1,1 @@
-# JSON data for Polygon
+# JSON data for Polygon for Reasearch Internship
